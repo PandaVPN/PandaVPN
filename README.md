@@ -1,16 +1,32 @@
-## Hi there 👋
+# PandaVPN Official Release Mirror
 
-<!--
-**PandaVPN/PandaVPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository is used as an official mirror for PandaVPN release packages.
 
-Here are some ideas to get you started:
+If the official website is temporarily unavailable or downloads are slow, users can download supported installation packages from the GitHub Releases page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Official website: https://pandavpnpro.com/
+
+## Downloads
+
+Please visit the Releases page to download the latest available packages:
+
+https://github.com/PandaVPN/PandaVPN/releases
+
+## Release Policy
+
+PandaVPN releases are managed by product line and platform:
+
+- Windows, macOS, and Linux are released separately by platform.
+- Android Pro, Android Lite, and Android TV are released separately, with APK files attached.
+- CLI is released separately, with packages for macOS, Linux, and Windows architectures.
+- iOS Pro, iOS Lite, and Apple TV packages are not uploaded to GitHub.
+
+Each new version will be published as a new GitHub Release. New packages will not be uploaded to old releases.
+
+## Notes
+
+This repository is only used for official release package mirroring.
+
+For product information, support, and account services, please visit the official website:
+
+https://pandavpnpro.com/
